@@ -1,5 +1,4 @@
-## Strings-and-Array  
-#Pass and Fail Count
+## Find the highest mark
 Ram has passed in certain subjects and failed in a few. Write a program to count the no of subjects he passed in and the no of subjects he has failed in. Marks scored below 50 is considered as failed. If Ram has passed in all the subjects print "Ram passed in all subjects" and if failed print "Ram failed in all subjects".
 
 Assume maximum size of array is 20,
